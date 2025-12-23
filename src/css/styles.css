@@ -255,7 +255,7 @@ h4 {
 }
 
 .section-title {
-    font-size: clamp(2rem, 5vw, 3rem);
+    font-size: clamp(1.6rem, 5vw, 3rem);
     margin-bottom: 20px;
 }
 
